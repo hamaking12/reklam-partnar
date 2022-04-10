@@ -116,4 +116,4 @@ ${message.content}`)
     }
         })
 
-client.login("OTU2NjQzMjcxMzY1NTEzMzM4.YjzNeQ.fcldrzdJyhkNb7OPFUfUjxYGWAI");
+client.login("OTU2NjQzMjcxMzY1NTEzMzM4.YjzNeQ.rKVDVUEh2ZkP-YEU-2_R08TylXA");
